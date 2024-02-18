@@ -12,7 +12,7 @@ import java.util.*;
 
 자연수 n이 주어졌을 때, n보다 크고, 2n보다 작거나 같은 소수의 개수를 구하는 프로그램을 작성하시오. 
  * */
-
+ 
 public class BerelangPrimeNumber {
 	public static void main(String[] args) throws IOException {
 		
